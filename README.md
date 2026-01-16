@@ -1,8 +1,3 @@
-# credit-card-default-prediction
-Credit Card Default Prediction is a machine learning project that predicts whether a customer is likely to default on their credit card payment based on historical financial and demographic data. The project includes data preprocessing, exploratory data analysis, model training, and performance evaluation.
-
-[README.md](https://github.com/user-attachments/files/24664252/README.md)
-
 # Credit Card Default Prediction
 
 ## 🚀 Project Overview
@@ -79,8 +74,3 @@ To better identify defaulters, the classification threshold was optimized using 
 * `train_dataset_final1.csv`: The training dataset.
 * `validate_dataset_final.csv`: The validation dataset for final predictions.
 * `requirements.txt`: A list of required Python libraries for reproducibility.
-[notebook_submission__22112085.ipynb](https://github.com/user-attachments/files/24664292/notebook_submission__22112085.ipynb)
-[requirements.txt](https://github.com/user-attachments/files/24664295/requirements.txt)
-[train_dataset_final1.csv](https://github.com/user-attachments/files/24664297/train_dataset_final1.csv)
-[submission_22112085.csv](https://github.com/user-attachments/files/24664299/submission_22112085.csv)
-[validate_dataset_final.csv](https://github.com/user-attachments/files/24664300/validate_dataset_final.csv)
